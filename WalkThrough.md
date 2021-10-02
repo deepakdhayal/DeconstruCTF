@@ -52,6 +52,37 @@ using Exiftool you can see a base64 string which is used as password for the las
 ![9](https://user-images.githubusercontent.com/48149717/135705812-0e64ce33-40c9-4b5b-94a7-937dd7ce5b65.jpg)
 
 
+##RSA - 1 
+
+![1](https://user-images.githubusercontent.com/48149717/135706052-3c72c8b6-5767-4d8f-8c47-5c41670d02a7.jpg)
 
 
+##RSA - 2
+
+![1](https://user-images.githubusercontent.com/48149717/135706058-7da52a8b-932e-47ca-9516-e6d27feb2a76.jpg)
+
+
+![2](https://user-images.githubusercontent.com/48149717/135706062-544f3c8e-2b2f-4d87-87e8-144beb3acce0.jpg)
+
+##Scraps 
+
+![scrap](https://user-images.githubusercontent.com/48149717/135706224-3c411b30-93ce-490d-abf2-8d0b5f0381dd.jpg)
+
+Base64 Decode
+
+![scra2](https://user-images.githubusercontent.com/48149717/135706231-3a35cbbf-b8c8-4ec7-8ede-ef8697d40c99.jpg)
+
+
+##Failed Logins 
+My approach might not be correct but it worked in this case.
+
+1.Rename the apk file:::: using ---mv chall.apk chall.zip
+
+2. d2j-dex2jar -d chall.zip
+
+3. jd-gui chall-dex2jar.jar
+ 
+![failed login](https://user-images.githubusercontent.com/48149717/135706281-0cc72a9d-5e33-4b47-a8c5-d20e2dfdd6e1.jpg)
+
+![failed login1](https://user-images.githubusercontent.com/48149717/135706287-5571eb44-5c5e-4173-a342-0e80c43b4824.jpg)
 
