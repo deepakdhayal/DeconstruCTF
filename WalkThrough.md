@@ -3,13 +3,17 @@ WalkThrough
 
 
 ##Pirates
+
 ![pirate](https://user-images.githubusercontent.com/48149717/135705254-1d60b22e-dced-49aa-b67b-0a45673b65dc.jpg)
 1. open file in wireshark.
 [network_listen.pcap.zip](https://github.com/Nikdhayal/DeconstruCTF/files/7270930/network_listen.pcap.zip)
 2. Follow TCP stream. 
 ![Pirates](https://user-images.githubusercontent.com/48149717/135705311-8044c1dd-a96d-48c7-a72b-6dc4d8554a03.jpg)
 
+
 ##The Missing Journalist
+
+
 ![missing](https://user-images.githubusercontent.com/48149717/135705352-e680b3eb-afed-4466-bc69-e353c1e93a2e.jpg)
 1. File can be downloaded here.
 [the_journalist.gif.zip](https://github.com/Nikdhayal/DeconstruCTF/files/7270932/the_journalist.gif.zip)
