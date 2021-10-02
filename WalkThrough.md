@@ -22,3 +22,36 @@ WalkThrough
 3. Using foremost tool, you can see another PDF.
 using Exiftool you can see a base64 string which is used as password for the last pdf.
 ![missingjournalist1](https://user-images.githubusercontent.com/48149717/135705405-36b75b6a-1f7d-40d7-83d0-a263d8e4669f.jpg)
+
+
+##Taxi Union Problems 
+
+![1](https://user-images.githubusercontent.com/48149717/135705514-0d1de0b2-e52f-419c-b932-996280e4b770.jpg)
+
+1. There is only one input field in the website.
+
+![2](https://user-images.githubusercontent.com/48149717/135705545-20adda77-482c-4487-9b6a-b7a84adf69f8.jpg)
+
+2.If we put an (') in the field we can see an error. Its an SQL injection. Sql Injection Verified.
+
+![4](https://user-images.githubusercontent.com/48149717/135705644-623ae09a-a7fb-4e76-b316-748573540ae1.jpg)
+
+3. Intercept the request in burpsuit.
+
+![5](https://user-images.githubusercontent.com/48149717/135705688-3b036575-1edf-4c1a-b306-44c2d4fe3220.jpg)
+
+4. copy the request and save it in a file and use SQLmap.
+![6](https://user-images.githubusercontent.com/48149717/135705724-a77098c4-58aa-4845-8569-998d1edf8c80.jpg)
+
+![7](https://user-images.githubusercontent.com/48149717/135705735-f1378493-d988-47ef-99e0-51535f33b346.jpg)
+
+![8](https://user-images.githubusercontent.com/48149717/135705737-4d5254f9-913f-4507-a9ad-209f6be97b36.jpg)
+
+5. Location is being displayed in the last image. Use the hint no caps.
+
+![9](https://user-images.githubusercontent.com/48149717/135705812-0e64ce33-40c9-4b5b-94a7-937dd7ce5b65.jpg)
+
+
+
+
+
