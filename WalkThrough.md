@@ -1,5 +1,6 @@
 # DeconstruCTF
 WalkThrough
+This is my First Time writting a walkthrough. There can be mistakes. Suggestions are Welcomed.
 
 
 ##Pirates
